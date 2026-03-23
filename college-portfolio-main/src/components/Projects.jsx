@@ -10,7 +10,7 @@ export default function Projects() {
       description:
         "A full-stack MERN application featuring real-time tracking via Socket.io and Google Maps. Includes secure Razorpay integration and Google OAuth for seamless user onboarding.",
       technologies: ["MongoDB", "Express", "React", "Node.js", "Socket.io", "Google Maps API", "Razorpay"],
-      github: "https://github.com/Ayush-codemen", 
+      github: "https://github.com/amansah23", 
       live: "https://your-live-link.com",
     },
     {
@@ -20,7 +20,7 @@ export default function Projects() {
       description:
         "A machine learning integration that predicts dropout risks using Logistic Regression and XGBoost. Features a React.js dashboard to visualize real-time risk assessment insights.",
       technologies: ["React.js", "Node.js", "Python", "Machine Learning", "RESTful APIs", "Tailwind CSS"],
-      github: "https://github.com/Ayush-codemen",
+      github: "https://github.com/amansah23",
       live: "https://your-live-link.com",
     },
     {
@@ -30,7 +30,7 @@ export default function Projects() {
       description:
         "A productivity platform for developers to track coding streaks and DSA progress. Built with a personalized dashboard and JWT authentication for secure revision management.",
       technologies: ["Node.js", "Express.js", "MongoDB", "React.js", "Vercel", "JWT"],
-      github: "https://github.com/Ayush-codemen",
+      github: "https://github.com/amansah23",
       live: "https://your-live-link.com",
     },
   ]

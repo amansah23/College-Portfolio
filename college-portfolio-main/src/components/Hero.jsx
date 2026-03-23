@@ -60,7 +60,7 @@ export default function Hero() {
             </h2>
 
             <p className="text-gray-600 mb-8 max-w-2xl">
-              I am Harsh Kumar Chaudhary, currently pursuing my B.Tech in Computer Engineering at Lovely Professional
+              I am Aman Kumar Chaudhary, currently pursuing my B.Tech in Computer Engineering at Lovely Professional
               University. With expertise in Cloud Computing, Web Development, and AI, I build scalable applications and innovative
               solutions that solve real-world problems.
             </p>
@@ -68,7 +68,7 @@ export default function Hero() {
             {/* Social Links */}
             <div className="flex flex-wrap gap-4 justify-center md:justify-start mb-8">
               <a
-                href="mailto:contact@ayushkumarsingh.com"
+                href="mailto:amankashya232004@gmail.com"
                 className="flex items-center gap-2 text-gray-700 hover:text-orange-400 transition-colors"
               >
                 <Mail className="h-5 w-5" />
@@ -82,7 +82,7 @@ export default function Hero() {
                 <span>Phone</span>
               </a>
               <a
-                href="https://www.linkedin.com/in/ayush-kr-singh1"
+                href="https://www.linkedin.com/in/amansah231"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-700 hover:text-orange-400 transition-colors"
@@ -91,7 +91,7 @@ export default function Hero() {
                 <span>LinkedIn</span>
               </a>
               <a
-                href="https://github.com/Ayush-codemen"
+                href="https://github.com/amansah23"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-700 hover:text-orange-400 transition-colors"
@@ -112,7 +112,7 @@ export default function Hero() {
               <Button
                 variant="outline"
                 className="group"
-                onClick={() => window.location.href = "mailto:contact@ayushkumarsingh.com"}
+                onClick={() => window.location.href = "mailto:amankashya232004@gmail.com"}
               >
                 Let's Connect
                 <ArrowRight className="h-4 w-4 ml-2 transition-transform group-hover:translate-x-1" />
