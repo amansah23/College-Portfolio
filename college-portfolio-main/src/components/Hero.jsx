@@ -60,7 +60,7 @@ export default function Hero() {
             </h2>
 
             <p className="text-gray-600 mb-8 max-w-2xl">
-              I am Aman Kumar Chaudhary, currently pursuing my B.Tech in Computer Engineering at Lovely Professional
+              I am Aman Kumar Sah, currently pursuing my B.Tech in Computer Engineering at Lovely Professional
               University. With expertise in Cloud Computing, Web Development, and AI, I build scalable applications and innovative
               solutions that solve real-world problems.
             </p>
