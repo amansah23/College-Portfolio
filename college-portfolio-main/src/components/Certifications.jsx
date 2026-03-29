@@ -14,14 +14,14 @@ export default function Certifications() {
       name: "Prompt Engineering for ChatGPT",
       issuer: "Coursera",
       date: "March 2023",
-      image: "/course2.PNG",
+      image: "/coursera.png",
       verificationLink: "https://coursera.org/share/15b3640663baf8cdf34c2e4801724d14",
     },
     {
       name: "Cloud Computing",
       issuer: "NPTEL",
       date: "April 2025",
-      image: "/course3.jpg",
+      image: "/nptel.png",
       verificationLink: "https://www.coursera.org/verify/docker-kubernetes",
     },
     {

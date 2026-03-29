@@ -5,7 +5,7 @@ export default function Projects() {
   const projects = [
     {
       title: "Food Delivery Website with Realtime Order Tracking",
-      image: "/foodDelivery.png", // Ensure this image is in your public folder
+      image: "/blog.png", // Ensure this image is in your public folder
       date: "Dec’ 25 – Feb’ 26",
       description:
         "A full-stack MERN application featuring real-time tracking via Socket.io and Google Maps. Includes secure Razorpay integration and Google OAuth for seamless user onboarding.",
@@ -15,7 +15,7 @@ export default function Projects() {
     },
     {
       title: "AI-Powered Student Dropout Prediction System",
-      image: "/dropout-prediction.jpg", // Ensure this image is in your public folder
+      image: "/chaloAi.png", // Ensure this image is in your public folder
       date: "Oct’ 25 – Nov’ 25",
       description:
         "A machine learning integration that predicts dropout risks using Logistic Regression and XGBoost. Features a React.js dashboard to visualize real-time risk assessment insights.",
@@ -25,7 +25,7 @@ export default function Projects() {
     },
     {
       title: "CodeStreak – Organize and Analyze DSA Problems",
-      image: "/codestreak.png", // Ensure this image is in your public folder
+      image: "/taskManager.png", // Ensure this image is in your public folder
       date: "Jul’ 25 – Sep’ 25",
       description:
         "A productivity platform for developers to track coding streaks and DSA progress. Built with a personalized dashboard and JWT authentication for secure revision management.",
