@@ -4,31 +4,31 @@ import { Github, ExternalLink } from "lucide-react"
 export default function Projects() {
   const projects = [
     {
-      title: "Food Delivery Website with Realtime Order Tracking",
+      title: "Full Stack MERN Blog App with Authentication & CRUD",
       image: "/blog.png", // Ensure this image is in your public folder
       date: "Dec’ 25 – Feb’ 26",
       description:
-        "A full-stack MERN application featuring real-time tracking via Socket.io and Google Maps. Includes secure Razorpay integration and Google OAuth for seamless user onboarding.",
+        "Developed a scalable blog application using the MERN stack, implementing secure authentication, RESTful APIs, and full CRUD functionality. Users can create, edit, delete, and explore blog posts with an intuitive and responsive UI.",
       technologies: ["MongoDB", "Express", "React", "Node.js", "Socket.io", "Google Maps API", "Razorpay"],
       github: "https://github.com/amansah23", 
       live: "https://your-live-link.com",
     },
     {
-      title: "AI-Powered Student Dropout Prediction System",
+      title: "ChaloAI – AI-Powered Travel Itinerary Generator",
       image: "/chaloAi.png", // Ensure this image is in your public folder
       date: "Oct’ 25 – Nov’ 25",
       description:
-        "A machine learning integration that predicts dropout risks using Logistic Regression and XGBoost. Features a React.js dashboard to visualize real-time risk assessment insights.",
+        "ChaloAI is a modern frontend application that leverages Google’s Gemini to generate personalized travel itineraries. Users can input preferences such as destination, budget, and duration to receive intelligent, structured travel plans in seconds.",
       technologies: ["React.js", "Node.js", "Python", "Machine Learning", "RESTful APIs", "Tailwind CSS"],
       github: "https://github.com/amansah23",
       live: "https://your-live-link.com",
     },
     {
-      title: "CodeStreak – Organize and Analyze DSA Problems",
+      title: "Task Management System – Admin & User Workflow Platform",
       image: "/taskManager.png", // Ensure this image is in your public folder
       date: "Jul’ 25 – Sep’ 25",
       description:
-        "A productivity platform for developers to track coding streaks and DSA progress. Built with a personalized dashboard and JWT authentication for secure revision management.",
+        "A structured task management platform that allows admins to assign, monitor, and manage tasks efficiently. Users can track progress, update task status, and collaborate through an intuitive and responsive interface.",
       technologies: ["Node.js", "Express.js", "MongoDB", "React.js", "Vercel", "JWT"],
       github: "https://github.com/amansah23",
       live: "https://your-live-link.com",

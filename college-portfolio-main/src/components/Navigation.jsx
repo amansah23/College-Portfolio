@@ -34,9 +34,7 @@ export default function Navigation() {
     { name: "Skills", href: "#skills" },
     { name: "Projects", href: "#projects" },
     { name: "Certifications", href: "#certifications" },
-    { name: "Internships", href: "#internships" },
     { name: "University", href: "#university" },
-    { name: "Achievements", href: "#achievements" },
     { name: "Resume", href: "#resume" },
   ]
 
