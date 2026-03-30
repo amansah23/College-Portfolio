@@ -34,7 +34,7 @@ export default function Resume() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               {/* Primary Download Button using Shadcn */}
-              <a href="/Align.jpg" download="Ayush_Kumar_Singh_Resume.jpg" className="w-full sm:w-auto">
+              <a href="/Resume.jpg" download="Ayush_Kumar_Singh_Resume.jpg" className="w-full sm:w-auto">
                 <Button className="w-full sm:w-auto gap-2 bg-purple-700 hover:bg-orange-400 text-white font-bold py-6 px-8 rounded-xl transition-all shadow-lg hover:shadow-orange-200">
                   <Download className="h-5 w-5" />
                   <span>Download Specialized CV</span>
